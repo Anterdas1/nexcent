@@ -27,7 +27,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <Image                    
-                        src='/logo.png'
+                        src='/Logo.png'
                         width={150}
                         height={150}
                         alt='kana dakh'
