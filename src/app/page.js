@@ -1,4 +1,5 @@
 import Client from "@/components/Client";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Mange from "@/components/Mange";
 import { Button } from "@heroui/react";
@@ -32,6 +33,7 @@ export default function Home() {
         <Mange></Mange>
       </div>
       <Hero></Hero>
+      {/* <Footer></Footer> */}
 
     </div>
   );
